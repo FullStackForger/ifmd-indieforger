@@ -1,6 +1,6 @@
 # Some thoughts on Steam Early Access
 
-Here are some notes I took down after watching [Is Early Access Right for You?](Is Early Access Right for You?).
+Here are some notes I took down after watching [Is Early Access Right for You?](https://www.youtube.com/watch?v=JRDwA3cQmlc).
 
 ## PLayer minium expectations from the game
 
