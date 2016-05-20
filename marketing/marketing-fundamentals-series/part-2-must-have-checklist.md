@@ -1,4 +1,4 @@
-# Marketing for Indiegame Developer 
+# Marketing for Indiegame Developer
 # Part 2: Must-Have Checklist
 
 ## Internal
@@ -28,3 +28,20 @@
 * Marketing strategy
 
 ## External
+
+
+* Competitions and festivals
+ - [igf](http://www.igf.com/)
+* Industry people
+ - get reviews, interviews, comments
+* News sites
+ - Large site
+ - Small genre specific sites
+* Industry sites
+ - Development
+ - Marketing
+ - Postmortem
+* Youtube
+  - Reviewers
+  - Streamers
+  - Critics
