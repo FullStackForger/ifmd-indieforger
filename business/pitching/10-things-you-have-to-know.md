@@ -10,8 +10,8 @@ Most important thing VC is looking for while you are pitching the idea is **you*
 
 During duration of the pitch which can be anything from 15 to 30 minutes you have to convey 10 different characteristics.
 
-* **integrity** -
-* **passion** - if you not passionate about what you do, you will not be able to convince anyone to be passionate about it. Passion is followed by involvement. You have to do it full time.
+* **integrity** - make sure your pitch doesn't have missing parts, know the subject and be honest! Investors are smart and with years of practice will pick up those those things quickly.  
+* **passion** - if you are not passionate about what you do, you will not be able to convince anyone to be passionate about it. Passion is followed by involvement. You have to do it full time.
 * **experience** - you need to prove that you can take something form the beginning to the end. That is why VC like to fund serial entrepreneurs. Even if you failed the first time you have learned the lessons that will help you to get it right next time. You are expected to have an experience in creating organization.
 * **knowladge** - you have to have a domain expertise. That means knowing market, knowing business environment, other players.
 * **skills** to get the company going. That includes: technical skills, marketing, sales, management. There are only few people who have the hole set of skills, that is why you are expected to be a leader.
@@ -42,7 +42,7 @@ The goal is to get VC into an "emotional high". You need to make them want to wr
 - How you going to do it?
 - What it is that you going to do?
 - Make references to companies or products VCs can relate to.
-- Validate. Show it has been done and it works, you have a award, show prototype, user feedback, anything that will validate your idea will work.
+- Validate. Show it has been done and it works, you have an award, prototype, user feedback. Anything that validates your idea works here.
 - Make believable upside. Upside means promising and believable means realistic.
 - Never tell lies or don't say anything you are not sure about.
 - Make it clear. Don't use abbreviations or mental shortcuts. Anything that is unclear will throw VC out of the flow of the presentation. Take them on the journey step by step, like you would do with a 6-grader without patronizing.
@@ -79,4 +79,4 @@ Go back to your first slide showing just the logo and conclude the pitch. Make t
 - Always use remote controller.
 - Handouts are not your presentation, it has to have a lot more information.
 - Don't read your pitch. Memorize it!
-- Never ever look at the screen. Make a connection with the audience.
+- Never ever look at the projector screen. Make a connection with the audience.
