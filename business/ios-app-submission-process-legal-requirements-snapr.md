@@ -77,7 +77,8 @@ Once it's done you will get email with activation link. Go ahead, click it and r
 
 ### SNAP-R account - work items
 
-Here is another link you should bookmark: [snapr.bis.doc.gov/snapr](https://snapr.bis.doc.gov/snapr/) - use it to log in to SNAP-R administration panel.
+Log in to SNAP-R administration panel with [snapr.bis.doc.gov/snapr](https://snapr.bis.doc.gov/snapr/). You might want to
+bookmark that link.
 
 Once you have successfully logged in, you can now create work item.
 
